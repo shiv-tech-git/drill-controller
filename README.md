@@ -1,2 +1,2 @@
-# drill-controller
-Rotational speed stabilizer for DC motor
+# Drill controller
+PID angular speed stabilizing system for DC motor. System uses optical sensor for measuring angular speed and the N-channel Mosfet controlled by PWM signal for deliver power to motor. Potentiometer serves for selecting needed angular speed. 4 digit 7 segment indicator shows current speed. Code and electronics are working right now. All that remains is to make main PCB and the drilling machine on which controller will be mounted on.
